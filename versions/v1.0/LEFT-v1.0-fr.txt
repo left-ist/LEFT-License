@@ -1,0 +1,267 @@
+LICENCE LEFT v1.0
+Licence for Ethical & Fair Things
+
+Une licence copy-left politique pour les œuvres partagées, les outils communs et la création émancipatrice.
+
+
+PRÉAMBULE
+
+    La licence LEFT a pour objet de protéger les communs créatifs, culturels et techniques contre la privatisation, les usages discriminatoires, la destruction écologique et l’appropriation fermée.
+
+    Elle garantit la liberté d’utiliser, d’étudier, de modifier, d’améliorer et de redistribuer les œuvres, à condition que ces mêmes libertés soient préservées pour autrui.
+
+    Elle garantit également que les œuvres rendues accessibles par des services en réseau demeurent partageables dans leur forme modifiable préférée.
+
+    La licence LEFT s’applique aux logiciels, textes, designs, graphismes, œuvres audiovisuelles, bases de données, documentations et autres créations partageables.
+
+---
+
+
+
+ARTICLE 0 – Information et accès au texte de la licence
+
+    Toute Œuvre diffusée, publiée, communiquée ou rendue accessible sous la présente Licence doit être accompagnée :
+
+    1. du texte intégral de la présente Licence ; ou
+    2. d’un lien ou d'une adresse url claire et accessible permettant à tout destinataire de consulter le texte complet et à jour de la Licence.
+
+    Cette information doit être raisonnablement visible.
+
+---
+
+
+
+ARTICLE 1 – Définitions
+
+    1.1 Œuvre couverte
+
+        Une « Œuvre couverte » désigne toute création diffusée sous la présente Licence.
+
+    1.2 Œuvre
+
+        Toute création protégeable par le droit d’auteur ou autrement protégée par la loi, incluant notamment :
+
+        - logiciels
+        - code
+        - sites web
+        - bases de données
+        - textes
+        - livres
+        - documentation
+        - graphismes
+        - affiches
+        - identités visuelles
+        - polices de caractères
+        - audio
+        - vidéo
+        - modèles
+        - jeux de données
+        - modèles réutilisables
+        - œuvres dérivées
+
+    1.3 Forme Source Préférée
+
+        La forme la plus adaptée à la modification de l’Œuvre.
+
+        Exemples :
+
+        - code source pour les logiciels
+        - SVG, Krita, PSD, XCF ou formats éditables équivalents pour les graphismes
+        - Markdown, ODT, DOCX ou formats équivalents pour les textes
+        - fichiers projet pour les œuvres audiovisuelles
+        - données brutes structurées pour les jeux de données
+
+    1.4 Diffuser
+
+        Distribuer, partager, publier, communiquer, transmettre, afficher, héberger ou autrement rendre accessible.
+
+    1.5 Modifier
+
+        Adapter, remixer, transformer, traduire, étendre, améliorer ou développer à partir de l’Œuvre.
+
+    1.6 Utilisateur
+
+        Toute personne physique, collectif, organisation, coopérative, organisme public, association, mouvement, entreprise ou autre entité exerçant des droits au titre de la présente Licence.
+
+---
+
+
+
+ARTICLE 2 – Droits accordés
+
+    Sous réserve du respect de la présente Licence, les Utilisateurs peuvent :
+
+    - utiliser l’Œuvre
+    - étudier l’Œuvre
+    - copier l’Œuvre
+    - modifier l’Œuvre
+    - redistribuer l’Œuvre
+    - communiquer publiquement l’Œuvre
+    - utiliser l’Œuvre via des services en réseau
+
+---
+
+
+
+ARTICLE 3 – Partage à l’identique / Copyleft
+
+    Toute version Modifiée ou œuvre dérivée d’une Œuvre couverte qui est Diffusée doit être licenciée sous cette même Licence LEFT.
+
+    Aucune restriction juridique ou technique supplémentaire ne peut être ajoutée.
+
+---
+
+
+
+ARTICLE 4 – Mise à disposition des sources
+
+    Lorsqu’une Œuvre couverte est Diffusée, la Forme Source Préférée complète doit être rendue disponible sans coût supplémentaire.
+
+    L’accès doit être pratique, clair et raisonnablement durable.
+
+---
+
+
+
+ARTICLE 5 – Copyleft réseau
+
+    Si une Œuvre couverte Modifiée est utilisée au moyen d’un site web, d’une plateforme, d’une application, d’une API, d’un système SaaS ou de tout autre service en réseau, les utilisateurs interagissant avec elle doivent se voir proposer l’accès à la Forme Source Préférée complète de la version effectivement exploitée.
+
+    Cet accès doit être clair et raisonnablement immédiat.
+
+---
+
+
+
+ARTICLE 6 – Mentions d’attribution et d’intégrité
+
+    Les mentions suivantes doivent être conservées lorsque cela est raisonnablement possible :
+
+    - mentions d’auteur
+    - mentions des contributeurs
+    - mentions de licence
+    - mentions de modification
+    - liens vers les dépôts sources lorsqu’applicables
+
+    Les modifications substantielles doivent être signalées.
+
+---
+
+
+
+ARTICLE 7 – Condition d’alignement émancipateur
+
+    Les droits accordés par la présente Licence ne le sont que lorsque les deux conditions suivantes sont réunies :
+
+    1. l’usage spécifique de l’Œuvre ; et
+    2. l’Utilisateur exerçant ces droits
+
+    participent raisonnablement à au moins un des objectifs sociaux suivants, sans être matériellement incompatibles avec aucun d’eux :
+
+    - antiracisme
+    - égalité des personnes sans distinction d’origine, de nationalité ou de croyance
+    - solidarité avec les migrants et réfugiés
+    - droits des travailleurs et démocratie au travail
+    - propriété coopérative ou démocratique
+    - lutte féministe et égalité de genre
+    - égalité et dignité LGBTQ+
+    - transition écologique et protection de l’environnement
+    - défense des services publics et des biens communs
+    - accès au savoir et à l’éducation
+    - antifascisme
+    - participation démocratique et libertés civiles
+    - solidarité internationale et paix
+
+    Se revendiquer d’un objectif ne saurait excuser une hostilité active envers un autre.
+
+---
+
+
+
+ARTICLE 8 – Usages exclus
+
+    Sans limitation, aucun droit n’est accordé lorsque l’Utilisateur ou l’usage soutient substantiellement :
+
+    - le racisme, la xénophobie ou les politiques anti-immigration
+    - le fascisme ou la répression autoritaire
+    - la répression syndicale
+    - la destruction écologique à des fins privées lucratives
+    - les discriminations organisées
+    - la persécution de minorités
+    - la surveillance de masse contraire aux libertés fondamentales
+    - la suppression violente des droits démocratiques
+
+---
+
+
+
+ARTICLE 9 – Usage commercial
+
+    L’usage commercial n’est autorisé que pour les Utilisateurs conformes à l’ARTICLE 7 et relevant d’une ou plusieurs des catégories suivantes :
+
+    - coopératives
+    - associations
+    - syndicats
+    - mutuelles
+    - entreprises publiques
+    - institutions publiques
+    - organisations ou mouvements politiques
+    - entreprises détenues par les travailleurs
+    - médias à but non lucratif
+    - entreprises sociales à gouvernance démocratique
+    - collectifs informels poursuivant un objectif d’intérêt général
+
+    Tout autre usage commercial requiert une autorisation distincte des titulaires de droits.
+
+---
+
+
+
+ARTICLE 10 – Résiliation
+
+    Toute violation de la présente Licence met automatiquement fin aux droits accordés par celle-ci.
+
+    Les droits peuvent être rétablis en cas de cessation de la violation et de correction raisonnable.
+
+---
+
+
+
+ARTICLE 11 – Texte officiel de la Licence
+
+    Le texte officiel de la Licence LEFT est protégé.
+
+    La copie conforme et la redistribution du texte de la Licence sont autorisées.
+
+    Les versions modifiées du texte de la Licence ne peuvent être présentées comme :
+
+    - LEFT License
+    - LEFT v1.0
+    - texte officiel de la Licence LEFT
+
+    sauf publication formelle par ses garants reconnus.
+
+    Les licences dérivées indépendantes doivent utiliser un nom distinct.
+
+---
+
+
+
+ARTICLE 12 – Absence de garantie
+
+    L’Œuvre est fournie « en l’état », sans garantie, dans toute la mesure permise par la loi.
+
+    Les auteurs et contributeurs ne sauraient être tenus responsables des dommages résultant de son usage.
+
+---
+
+
+
+ARTICLE 13 – Versions futures
+
+    Des versions futures de la Licence LEFT peuvent être publiées par ses garants désignés.
+
+    Une Œuvre couverte peut préciser :
+
+    - LEFT v1.0 uniquement
+    - LEFT v1.0 ou toute version ultérieure
